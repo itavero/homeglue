@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeGlue.Broker", "HomeGlue.Broker\HomeGlue.Broker.csproj", "{80E7F350-24FA-40A9-A1F4-C130970E8D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeGlue.HomeKitModels", "HomeGlue.HomeKitModels\HomeGlue.HomeKitModels.csproj", "{2E4DC791-CB11-4365-8872-F656235965C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E7F350-24FA-40A9-A1F4-C130970E8D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E7F350-24FA-40A9-A1F4-C130970E8D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E7F350-24FA-40A9-A1F4-C130970E8D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E7F350-24FA-40A9-A1F4-C130970E8D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4DC791-CB11-4365-8872-F656235965C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4DC791-CB11-4365-8872-F656235965C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4DC791-CB11-4365-8872-F656235965C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4DC791-CB11-4365-8872-F656235965C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

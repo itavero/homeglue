@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="dotAPNS" Version="1.0.8" />
+      <PackageReference Include="MQTTnet" Version="3.0.8" />
+      <PackageReference Include="MQTTnet.AspNetCore" Version="3.0.8" />
+    </ItemGroup>
+
+</Project>
